@@ -1,1 +1,1 @@
-This is simple app, whitch shows weather
+This is simple app, which shows weather
